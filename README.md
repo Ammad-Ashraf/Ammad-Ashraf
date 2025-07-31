@@ -1,5 +1,5 @@
 <p align="center">
-  ℹ️<strong> This README is best viewed in GitHub's light theme.</strong><br/>
+  ℹ️<strong> README is best viewed in GitHub's light theme.</strong><br/>
   <img width="100%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/github-banner.png" alt="Ammad Ashraf Banner" />
 </p>
 <hr/>
