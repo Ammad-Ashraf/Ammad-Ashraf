@@ -37,15 +37,16 @@
   <p align="left">
   <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/about.svg" alt="About me" />
   </p>
-
+  <br/>
   <p>
-    <strong>◐ I'm</strong>, a final-year Software Engineering student at FAST NUCES Islamabad with a sharp focus on <strong>full-stack product development</strong>.<br/><br/>
-
-    💡 I’ve worked with real teams at <strong>Wondabyte</strong> and <strong>WeWrite</strong>, building production-grade applications that reached actual users. This taught me more than any lecture could — how           software works when the stakes are real.<br/><br/>
-
-    🧪 But building for others wasn’t enough. I wanted to solve problems I felt firsthand. That’s why I’m now crafting a SaaS platform:
+    <strong>◐ I'm</strong>, a final-year Software Engineering student at FAST NUCES Islamabad with a sharp focus on <strong>full-stack product development</strong>.<br/>
   </p>
-
+  <blockquote style="max-width: 700px; margin: 20px auto; font-size: 16px; line-height: 1.6; font-style: italic; border-left: 4px solid #22d3ee; padding-left: 15px; color: #555;">
+    “An AI-powered platform that helps early-stage founders validate startup ideas faster and smarter.  
+    From discovering real pain points to mapping ideal customers, analyzing competitors, and planning your launch — it’s all in one place.  
+    Designed to streamline the messy early startup workflow so you can move forward with clarity and confidence.”
+  </blockquote>
+  
   <h3 style="font-weight: bold; font-family: monospace; font-size: 22px; margin-top: 30px;">🚧 AI Co-Pilot for Founders</h3>
   <p align="left" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
     An AI-powered startup validation tool for early-stage founders — built from our own frustration with not knowing what to build.<br/><br/>
