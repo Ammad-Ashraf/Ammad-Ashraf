@@ -18,12 +18,12 @@
   <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/find-me.svg" alt="Find me" />
 </p>
 <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ammadashraf" style="margin-right: 15px;">
+  <a href="https://linkedin.com/in/ammadashraf" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/ammadashraf_01" style="margin-right: 15px;">
+  <a href="https://instagram.com/ammadashraf_01" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
 
