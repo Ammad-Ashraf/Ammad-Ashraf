@@ -17,15 +17,19 @@
 <p align="left">
   <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/find-me.svg" alt="Find me" />
 </p>
+<!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ammadashraf" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
 
-<a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 20px;">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" width="25" />
-</a>
-<a href="https://instagram.com/your-instagram-username" style="margin-left: 15px;">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="25" width="25" />
-</a>
-<a href="https://your-portfolio-website.com" style="margin-left: 15px;">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Portfolio" height="25" width="25" />
-</a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/ammadashraf_01" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+
+  <!-- Portfolio with infinity icon -->
+  <a href="https://ammad-ashraf.dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OOjs_UI_icon_infinity.svg" alt="Portfolio" width="30" height="30"/>
+  </a>
 
 </div>
