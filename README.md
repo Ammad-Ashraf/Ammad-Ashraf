@@ -14,16 +14,16 @@
 <hr/>
 <div align="left">
   
-<p style="font-family: Oswald; font-weight: bold; font-size: 32px; color: black; margin: 20px 0 5px 0; display: inline;">Find me on</p>
+<h1 style="font-family: Oswald; font-weight: bold; font-size: 32px; color: black; margin: 20px 0 5px 0; display: inline;">🌐 Find me on</h1>
 
-<a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 15px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+<a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 20px;">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" width="25" />
 </a>
-<a href="https://instagram.com/your-instagram-username" style="margin-left: 50px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+<a href="https://instagram.com/your-instagram-username" style="margin-left: 15px;">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="25" width="25" />
 </a>
-<a href="https://your-portfolio-website.com" style="margin-left: 50px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portfolio" height="30" width="30" />
+<a href="https://your-portfolio-website.com" style="margin-left: 15px;">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Portfolio" height="25" width="25" />
 </a>
 
 </div>
