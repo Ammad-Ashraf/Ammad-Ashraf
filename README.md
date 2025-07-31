@@ -114,7 +114,7 @@
 </div>
 <hr/>
 <!-- GitHub Stats -->
-<div>
+<div align="left">
   <p align="left">
     <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/stats.svg" alt="GitHub Stats" /><br/>
   </p>
