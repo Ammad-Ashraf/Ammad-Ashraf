@@ -49,7 +49,12 @@
     An AI-powered workspace that helps new founders shape, test, and validate ideas without wasting time.<br/>  
     It brings clarity to your early decisions - from identifying real problems to planning your first launch, it's all in one place.
   </blockquote>
-  
-
+  <br/>
+  <p>
+    <strong>🟡 </strong>Lately exploring automation workflows and neuroscience - just out of curiosity.
+  </p>
+  <br/>
+  <p><strong> 🙌 Have a great day!</strong></p>
 </div>
+<hr/>
 
