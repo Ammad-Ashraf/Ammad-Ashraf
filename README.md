@@ -38,10 +38,10 @@
   <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/about.svg" alt="About me" />
   </p>
 
-  <p align="left" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
-    ◐<strong>I'm</strong>, a final-year Software Engineering student at FAST NUCES Islamabad with a sharp focus on <strong>full-stack product development</strong>.<br/><br/>
+  <p>
+    <strong>◐ I'm</strong>, a final-year Software Engineering student at FAST NUCES Islamabad with a sharp focus on <strong>full-stack product development</strong>.<br/><br/>
 
-    💡 I’ve worked with real teams at <strong>Wondabyte</strong> and <strong>WeWrite</strong>, building production-grade applications that reached actual users. This taught me more than any lecture could — how software works when the stakes are real.<br/><br/>
+    💡 I’ve worked with real teams at <strong>Wondabyte</strong> and <strong>WeWrite</strong>, building production-grade applications that reached actual users. This taught me more than any lecture could — how           software works when the stakes are real.<br/><br/>
 
     🧪 But building for others wasn’t enough. I wanted to solve problems I felt firsthand. That’s why I’m now crafting a SaaS platform:
   </p>
