@@ -43,11 +43,11 @@
     <strong>🟡 I'm</strong>, a final-year <strong>Software Engineering</strong> student at <strong>FAST NUCES Islamabad</strong>.<br/>
     <strong>🟡 </strong>Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.<br/>
     <strong>🟡 </strong>I’ve interned as a <strong>full-stack</strong> and <strong>backend developer</strong> at two Islamabad-based startups: <strong>QuantaByte</strong> and <strong>WeRide</strong>.<br/>
+    <strong>🟡 </strong>Currently Building a <strong>SaaS Tool</strong> for <strong>First-Time Founders</strong>:
   </p>
-  <blockquote style="max-width: 700px; margin: 20px auto; font-size: 16px; line-height: 1.6; font-style: italic; border-left: 4px solid #22d3ee; padding-left: 15px; color: #555;">
-    “An AI-powered platform that helps early-stage founders validate startup ideas faster and smarter.  
-    From discovering real pain points to mapping ideal customers, analyzing competitors, and planning your launch — it’s all in one place.  
-    Designed to streamline the messy early startup workflow so you can move forward with clarity and confidence.”
+  <blockquote>
+    An AI-powered workspace that helps new founders shape, test, and validate ideas without wasting time.<br/>  
+    It brings clarity to your early decisions - from identifying real problems to planning your first launch, it's all in one place.
   </blockquote>
   
 
