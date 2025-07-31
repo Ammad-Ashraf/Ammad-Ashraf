@@ -74,7 +74,7 @@
   </p>
   
   <p align="center">
-  <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" />
+  <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" /><br/>
     <a href="https://nodejs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nodejs.svg" width="40" /></a>
     <a href="https://expressjs.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/express.svg" width="40" /></a>
     <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/springboot.svg" width="40" /></a>
@@ -88,6 +88,33 @@
     <a href="https://oauth.net/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/oauth.svg" width="40" /></a>
     <a href="https://developers.notion.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/notion.svg" width="40" /></a>
   </p>
+
+  <p align="center">
+    <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/programming.svg" alt="Programming" /><br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/javascript.svg" width="40" /></a>
+    <a href="https://docs.python.org/3/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/python.svg" width="40" /></a>
+    <a href="https://en.cppreference.com/w/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/cpp.svg" width="40" /></a>
+    <a href="https://docs.oracle.com/javase/8/docs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/java.svg" width="40" /></a>
+  </p>
+
+   <p align="center">
+    <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tools.svg" alt="Tech & Tools" /><br/>
+      <a href="https://www.docker.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/docker.svg" width="40" /></a>
+      <a href="https://kubernetes.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/kubernetes.svg" width="40" /></a>
+      <a href="https://www.jenkins.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jenkins.svg" width="40" /></a>
+      <a href="https://docs.github.com/en/actions"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/github-actions.svg" width="40" /></a>
+      <a href="https://nginx.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nginx.svg" width="40" /></a>
+      <a href="https://www.npmjs.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/npm.svg" width="40" /></a>
+      <a href="https://git-scm.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/git.svg" width="40" /></a>
+      <a href="https://github.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/github.svg" width="40" /></a>
+      <a href="https://vitejs.dev/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vite.svg" width="40" /></a>
+      <a href="https://vercel.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vercel.svg" width="40" /></a>
+      <a href="https://www.figma.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/figma.svg" width="40" /></a>
+  </p>
+
+  
+  
+  
   
 </div>
 
