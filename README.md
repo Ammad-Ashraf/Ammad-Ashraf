@@ -17,10 +17,12 @@
 <p align="left">
   <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/find-me.svg" alt="Find me" />
 </p>
-  <!-- Portfolio with infinity icon -->
-  <a href="https://ammad-ashraf.dev">
-    <img src="https://img.icons8.com/glyph-neue/64/link.png" alt="Portfolio" width="30" height="30"/>
-  </a>
+  <span style="padding-right: 15px;">
+    <!-- Portfolio with infinity icon -->
+    <a href="https://ammad-ashraf.dev">
+      <img src="https://img.icons8.com/glyph-neue/64/link.png" alt="Portfolio" width="30" height="30"/>
+    </a>
+  </span>  
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ammadashraf" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
