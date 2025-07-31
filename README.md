@@ -69,7 +69,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/javascript.svg" width="40" /></a>
     <a href="https://jquery.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jquery.svg" width="40" /></a>
     <a href="https://reactjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/react.svg" width="40" /></a>
-    <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/zustand.svg" width="40" /></a>
+    <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/zustand.svg" width="40" /></a><br/>
     <a href="https://nextjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nextjs.svg" width="40" /></a>
   </p>
   
