@@ -3,10 +3,10 @@
 </p>
 <!-- Section Header -->
 <h2 align="center" style="font-family:monospace; font-weight:bold; font-size:28px;">
+  <p align="left" style="font-size:12px; color:#22d3ee;">────────────────────────────────────────</p>
   <span style="color:#22d3ee;">&lt;</span>
   Tech Stack
   <span style="color:#22d3ee;">/&gt;</span>
 </h2>
-<p align="center" style="font-size:12px; color:#22d3ee;">────────────────────────────────────────</p>
 
 
