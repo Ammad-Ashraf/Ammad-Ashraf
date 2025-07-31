@@ -14,16 +14,16 @@
 <hr/>
 <div align="left">
   
-<h1 style="font-family: Oswald; font-weight: bold; font-size: 32px; color: black; margin: 20px 0 5px 0; display: inline;">🌐 Find me on</h1>
+<p style="font-family: Oswald; font-weight: bold; font-size: 32px; color: black; margin: 20px 0 5px 0; display: inline;">Find me on</p>
 
 <a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 15px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
 </a>
-<a href="https://instagram.com/your-instagram-username" style="margin-left: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+<a href="https://instagram.com/your-instagram-username" style="margin-left: 50px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
 </a>
-<a href="https://your-portfolio-website.com" style="margin-left: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30"/>
+<a href="https://your-portfolio-website.com" style="margin-left: 50px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portfolio" height="30" width="30" />
 </a>
 
 </div>
