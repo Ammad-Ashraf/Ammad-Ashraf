@@ -4,7 +4,7 @@
 <hr/>
 <div align="left">
   
-<p style="font-size: 24px; font-family: Ubuntu; color: black; margin: 0;">👋 Hello everyone,</p>
+<p><strong>👋 Hello everyone,</strong></p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=50&color=000000&center=false&vCenter=true&width=500&height=70&duration=6000&lines=Ammad+Ashraf" />
 
