@@ -50,7 +50,7 @@
     It brings clarity to your early decisions - from identifying real problems to planning your first launch, it's all in one place.
   </blockquote>
   <p>
-    <strong>🟡 </strong>Lately exploring automation workflows and neuroscience - just out of curiosity.
+    <strong>🟡 </strong>Lately exploring <strong>Automation Workflows</strong> and <strong>Neuroscience</strong> - just out of curiosity.
   </p>
   <br/>
   <p><strong> 🙌 Have a great day!</strong></p>
