@@ -29,7 +29,7 @@
 
   <!-- Portfolio with infinity icon -->
   <a href="https://ammad-ashraf.dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OOjs_UI_icon_infinity.svg" alt="Portfolio" width="30" height="30"/>
+    <img src="https://img.icons8.com/glyph-neue/64/link.png" alt="Portfolio" width="30" height="30"/>
   </a>
 
 </div>
