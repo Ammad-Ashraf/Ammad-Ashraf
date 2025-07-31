@@ -114,14 +114,14 @@
 </div>
 <hr/>
 <!-- GitHub Stats -->
-<div align="left">
+<div>
   <p align="left">
     <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/stats.svg" alt="GitHub Stats" /><br/>
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ammad-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Ashraf&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ammad-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Ashraf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   </p>
   
   <p align="center">
@@ -134,9 +134,9 @@
   </p>
   
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ammad-Ashraf&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ammad-Ashraf&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
   </p>
 
 </div>
-
+<hr/>
 
