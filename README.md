@@ -14,17 +14,17 @@
 <hr/>
 <div align="left">
   
-<h2 style="font-family: Oswald; font-size: 28px; color: black; margin: 20px 0 10px 0;">🌐 Find me on</h2>
+<h1 style="font-family: Oswald; font-size: 28px; color: black; margin: 20px 0 10px 0;">Find me on</h1>
 
 <p>
   <a href="https://linkedin.com/in/ammadashraf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://instagram.com/ammadashraf_01">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
   <a href="https://ammad-ashraf.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" height="30"/>
   </a>
 </p>
 
