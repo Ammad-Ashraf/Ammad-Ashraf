@@ -116,7 +116,7 @@
 <!-- GitHub Stats -->
 <div>
   <p align="left">
-    <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/stats.svg" alt="GitHub Stats" /><br/>
+    <img width="24%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/stats.svg" alt="GitHub Stats" /><br/>
   </p>
   
   <p align="center">
@@ -125,7 +125,7 @@
   </p>
   
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Ammad-Ashraf&theme=radical&hide_border=true" alt="GitHub Streak" width:"100" />
+    <img src="https://streak-stats.demolab.com/?user=Ammad-Ashraf&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
   </p>
   
   
