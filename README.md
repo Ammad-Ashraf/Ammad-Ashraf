@@ -32,5 +32,5 @@
 </div>
 <hr/>
 <p align="left">
-  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/about.svg" alt="About me" />
+  <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/about.svg" alt="About me" />
 </p>
