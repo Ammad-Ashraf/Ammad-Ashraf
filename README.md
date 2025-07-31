@@ -143,18 +143,16 @@
   <p align="left">
     <strong>🤝 Let's Connect</strong>
   </p>
-  <br/>
   <p align="left">
     <strong>❍</strong> Got a project you’d like to discuss?<br/>
     <strong>❍</strong> Need help on something you're building?<br/>
     <strong>❍</strong> Hiring for a role that fits what I do?
   </p>
   <br/>
-  <p align="left>
-    I'm always open to chat, contribute, or explore new opportunities.<br/>  
+  <p align="left">
+    <strong>I'm always open to chat, contribute, or explore new opportunities</strong>.<br/>  
     <strong>Feel free to reach out 🙏</strong>
   </p>
-  <br/>
-  
+  <br/>  
 </div>
 <hr/>
