@@ -4,11 +4,11 @@
 <hr/>
 <div align="left">
   
-<p style="font-size: 24px; font-family: Montserrat; color: black; margin: 0;">👋 Hello everyone,</p>
+<p style="font-size: 24px; font-family: Oswald; color: black; margin: 0;">👋 Hello everyone,</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=000000&center=false&vCenter=true&width=500&height=70&duration=6000&lines=AMMAD+ASHRAF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=35&color=000000&center=false&vCenter=true&width=500&height=70&duration=6000&lines=Ammad+Ashraf" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=25&color=000000&center=false&vCenter=true&width=600&height=50&duration=6000&lines=Software+Engineer;Full+Stack+Web+Developer;API+Integration+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=25&color=000000&center=false&vCenter=true&width=600&height=50&duration=6000&lines=Software+Engineer;Full+Stack+Web+Developer;API+Integration+Specialist" />
 
 </div>
 
