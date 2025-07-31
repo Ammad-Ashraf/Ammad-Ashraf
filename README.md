@@ -4,7 +4,7 @@
 <hr/>
 <div align="left">
   
-<p style="font-size: 24px; font: Orbitron; color: black; margin: 0;">Hi! my name is,</p>
+<p style="font-size: 24px; font-family: Orbitron; color: black; margin: 0;">👋 Hello everyone,</p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=000000&center=false&vCenter=true&width=500&height=70&duration=6000&lines=AMMAD+ASHRAF" />
 
