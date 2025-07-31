@@ -62,8 +62,17 @@
   <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tech.svg" alt="Tech Stack" />
   </p>
   <p align="center">
-  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/frontend.svg" alt="Frontend" />
+  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/frontend.svg" alt="Frontend" /><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/html.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/css.svg" width="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/tailwind.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/javascript.svg" width="40" /></a>
+  <a href="https://jquery.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jquery.svg" width="40" /></a>
+  <a href="https://reactjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/react.svg" width="40" /></a>
+  <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/zustand.svg" width="40" /></a>
+  <a href="https://nextjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nextjs.svg" width="40" /></a>
   </p>
+  
   <p align="center">
   <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" />
   </p>
