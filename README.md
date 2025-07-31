@@ -38,33 +38,31 @@
   <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/about.svg" alt="About me" />
   </p>
 
-  <p><strong>🚀 Final-year Software Engineering student</strong> at FAST NUCES Islamabad</p>
+  <p align="left" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
+    ◐<strong>I'm</strong>, a final-year Software Engineering student at FAST NUCES Islamabad with a sharp focus on <strong>full-stack product development</strong>.<br/><br/>
 
-  <p><strong>🔧 Full-Stack Developer</strong> with hands-on experience in the MERN stack</p>
+    💡 I’ve worked with real teams at <strong>Wondabyte</strong> and <strong>WeWrite</strong>, building production-grade applications that reached actual users. This taught me more than any lecture could — how software works when the stakes are real.<br/><br/>
 
-  <p><strong>💼 Internships</strong><br/>
-    - Wondabyte<br/>
-    - WeWrite<br/>
-    Worked on real-world products and learned how production teams collaborate
+    🧪 But building for others wasn’t enough. I wanted to solve problems I felt firsthand. That’s why I’m now crafting a SaaS platform:
   </p>
 
-  <p><strong>🛠️ Co-Founder</strong> of a software services agency with classmates<br/>
-    - Lead full-stack projects<br/>
-    - Manage branding and client delivery<br/>
-    - Deliver software to real clients, not just classroom demos
+  <h3 style="font-weight: bold; font-family: monospace; font-size: 22px; margin-top: 30px;">🚧 AI Co-Pilot for Founders</h3>
+  <p align="left" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
+    An AI-powered startup validation tool for early-stage founders — built from our own frustration with not knowing what to build.<br/><br/>
+
+    🔍 It mines pain points from Reddit and Google<br/>
+    🧠 Uses AI to analyze competitors and market fit<br/>
+    🎯 Maps customer personas and launch strategy<br/><br/>
+
+    All in one place. Designed to move founders from “idea” to “launch-ready” with clarity and speed.
   </p>
 
-  <p><strong>🚧 Currently Building:</strong><br/>
-    A tool that helps early-stage founders validate startup ideas<br/>
-    Born from our own struggle to figure out what to build next
-  </p>
+  <h3 style="font-weight: bold; font-family: monospace; font-size: 22px; margin-top: 30px;">📚 Beyond Code</h3>
+  <p align="left" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.6;">
+    I’m endlessly curious. I’ve been exploring <strong>AI automation</strong>, <strong>neuroscience</strong>, and soaking in new experiences through travel.<br/><br/>
 
-  <p><strong>📚 Personal Interests:</strong><br/>
-    - AI automation<br/>
-    - Neuroscience<br/>
-    - Travel and city-hopping across Pakistan
+    Currently reading: <em>How to Win Friends and Influence People</em> — because being good with people matters just as much as being good with code.
   </p>
-
-  <p><strong>📖 Reading Now:</strong> _How to Win Friends and Influence People_</p>
 
 </div>
+
