@@ -1,4 +1,5 @@
 <p align="center">
+  <strong>❗Disclaimer:</strong> This README is best viewed in <strong>GitHub's light theme</strong> for the intended visual experience.
   <img width="100%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/github-banner.png" alt="Ammad Ashraf Banner" />
 </p>
 <hr/>
