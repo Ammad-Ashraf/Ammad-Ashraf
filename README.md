@@ -62,19 +62,31 @@
   <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tech.svg" alt="Tech Stack" />
   </p>
   <p align="center">
-    <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/frontend.svg" alt="Frontend" /><br/>
+    <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/frontend.svg" alt="Frontend" /><br/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/html.svg" width="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/css.svg" width="40" /></a>
     <a href="https://tailwindcss.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/tailwind.svg" width="40" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/javascript.svg" width="40" /></a>
     <a href="https://jquery.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jquery.svg" width="40" /></a>
     <a href="https://reactjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/react.svg" width="40" /></a>
-    <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/zustand.svg" width="40" /></a><br/>
+    <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/zustand.svg" width="40" /></a>
     <a href="https://nextjs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nextjs.svg" width="40" /></a>
   </p>
   
   <p align="center">
-  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" />
+  <img width="13%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" />
+    <a href="https://nodejs.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nodejs.svg" width="40" /></a>
+    <a href="https://expressjs.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/express.svg" width="40" /></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/springboot.svg" width="40" /></a>
+    <a href="https://restfulapi.net/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/restapi.svg" width="40" /></a>
+    <a href="https://graphql.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/graphql.svg" width="40" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mongodb.svg" width="40" /></a>
+    <a href="https://www.mysql.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mysql.svg" width="40" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mssql.svg" width="40" /></a>
+    <a href="https://redis.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/redis.svg" width="40" /></a>
+    <a href="https://jwt.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jwt.svg" width="40" /></a>
+    <a href="https://oauth.net/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/oauth.svg" width="40" /></a>
+    <a href="https://developers.notion.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/notion.svg" width="40" /></a>
   </p>
   
 </div>
