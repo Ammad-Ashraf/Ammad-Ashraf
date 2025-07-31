@@ -90,7 +90,7 @@
   </p>
 
   <p align="center">
-    <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/programming.svg" alt="Programming" /><br/>
+    <img width="17%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/programming.svg" alt="Programming" /><br/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/javascript.svg" width="40" /></a>
       <a href="https://docs.python.org/3/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/python.svg" width="40" /></a>
       <a href="https://en.cppreference.com/w/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/cpp.svg" width="40" /></a>
@@ -98,7 +98,7 @@
   </p>
 
   <p align="center">
-    <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tools.svg" alt="Tech & Tools" /><br/>
+    <img width="17%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tools.svg" alt="Tech & Tools" /><br/>
       <a href="https://www.docker.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/docker.svg" width="40" /></a>
       <a href="https://kubernetes.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/kubernetes.svg" width="40" /></a>
       <a href="https://www.jenkins.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jenkins.svg" width="40" /></a>
@@ -110,11 +110,9 @@
       <a href="https://vitejs.dev/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vite.svg" width="40" /></a>
       <a href="https://vercel.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vercel.svg" width="40" /></a>
       <a href="https://www.figma.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/figma.svg" width="40" /></a>
-  </p>
-
-  
-  
-  
-  
+  </p  
 </div>
+<hr/>
+<!-- GitHub Stats -->
+
 
