@@ -14,7 +14,9 @@
 <hr/>
 <div align="left">
   
-<h1 style="font-family: Oswald; font-weight: bold; font-size: 32px; color: black; margin: 20px 0 5px 0; display: inline;">🌐 Find me on</h1>
+<p align="left">
+  <img width="100%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/findme.svg" alt="Find me" />
+</p>
 
 <a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 20px;">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" width="25" />
