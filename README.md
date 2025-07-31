@@ -56,4 +56,17 @@
   <p><strong> 🙌 Have a great day!</strong></p>
 </div>
 <hr/>
+<!-- Tech Stack -->
+<div align="left">
+  <p align="left">
+  <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/tech.svg" alt="Tech Stack" />
+  </p>
+  <p align="center">
+  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/frontend.svg" alt="Frontend" />
+  </p>
+  <p align="center">
+  <img width="15%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/backend.svg" alt="Backend" />
+  </p>
+  
+</div>
 
