@@ -40,8 +40,8 @@
   <p><strong> 🙌 Thank you for visiting my profile!</strong></p>
   <br/>
   <p>
-    <strong>⚫ I'm</strong>, a final-year <strong>Software Engineering</strong> student at FAST NUCES Islamabad.<br/>
-    <strong>⚫ </strong>Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.
+    <strong>🟡 I'm</strong>, a final-year <strong>Software Engineering</strong> student at FAST NUCES Islamabad.<br/>
+    <strong>🟡 </strong>Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.
   </p>
   <blockquote style="max-width: 700px; margin: 20px auto; font-size: 16px; line-height: 1.6; font-style: italic; border-left: 4px solid #22d3ee; padding-left: 15px; color: #555;">
     “An AI-powered platform that helps early-stage founders validate startup ideas faster and smarter.  
