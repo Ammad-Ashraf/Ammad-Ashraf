@@ -15,7 +15,7 @@
 <div align="left">
   
 <p align="left">
-  <img width="10%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/findme.svg" alt="Find me" />
+  <img width="20%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/findme.svg" alt="Find me" />
 </p>
 
 <a href="https://linkedin.com/in/your-linkedin-username" style="margin-left: 20px;">
