@@ -114,5 +114,25 @@
 </div>
 <hr/>
 <!-- GitHub Stats -->
+<div align="left">
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammad-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Ashraf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ammad-Ashraf&theme=radical&hide_border=true" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammad-Ashraf&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+</div>
 
 
