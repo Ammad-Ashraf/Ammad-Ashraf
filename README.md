@@ -126,14 +126,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ammad-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammad-Ashraf&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   </p>
-  
+
   <p align="center">
-    <a href="https://streak-stats.demolab.com?user=Ammad-Ashraf">
-      <img src="https://streak-stats.demolab.com?user=Ammad-Ashraf" alt="GitHub Streak" width="96%" />
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Ammad-Ashraf">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ammad-Ashraf" alt="GitHub Streak" width="96%" />
     </a>
   </p>
 
-  
   
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12" width="100%" />
