@@ -129,16 +129,12 @@
 
   <p align="center">
     <a href="https://my-github-streak.vercel.app?user=Ammad-Ashraf&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-      <img src="https://my-github-streak.vercel.app?user=Ammad-Ashraf&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="96%" />
+      <img src="https://my-github-streak.vercel.app?user=Ammad-Ashraf&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
     </a>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12" width="48%" />
   </p>
 
-
-  
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12" width="100%" />
-  </p>
-  
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Ammad-Ashraf&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
   </p>
