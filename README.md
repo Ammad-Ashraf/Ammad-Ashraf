@@ -1,5 +1,7 @@
 <p align="center">
-  ℹ️<strong> README is best viewed in GitHub's light theme.</strong><br/>
+<strong>ℹ️ README is best viewed in GitHub's light theme.</strong>
+</p>
+<p align="center">
   <img width="100%" src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/github-banner.png" alt="Ammad Ashraf Banner" />
 </p>
 <hr/>
@@ -41,17 +43,17 @@
   <p><strong> 🙌 Thank you for visiting my profile!</strong></p>
   <br/>
   <p>
-    <strong>🟡 I'm</strong>, a final-year <strong>Software Engineering</strong> student at <strong>FAST NUCES Islamabad</strong>.<br/>
-    <strong>🟡 </strong>Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.<br/>
-    <strong>🟡 </strong>I’ve interned as a <strong>full-stack</strong> and <strong>backend developer</strong> at two Islamabad-based startups: <strong>QuantaByte</strong> and <strong>WeRide</strong>.<br/>
-    <strong>🟡 </strong>Currently Building a <strong>SaaS Tool</strong> for <strong>First-Time Founders</strong>:
+    🟡<strong> I'm</strong>, a final-year <strong>Software Engineering</strong> student at <strong>FAST NUCES Islamabad</strong>.<br/>
+    🟡 Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.<br/>
+    🟡 I’ve interned as a <strong>full-stack</strong> and <strong>backend developer</strong> at two Islamabad-based startups: <strong>QuantaByte</strong> and <strong>WeRide</strong>.<br/>
+    🟡 Currently Building a <strong>SaaS Tool</strong> for <strong>First-Time Founders</strong>:
   </p>
   <blockquote>
     An AI-powered workspace that helps new founders shape, test, and validate ideas without wasting time.<br/>  
     It brings clarity to your early decisions - from identifying real problems to planning your first launch, it's all in one place.
   </blockquote>
   <p>
-    <strong>🟡 </strong>Lately exploring <strong>Automation Tools</strong> and <strong>Neuroscience</strong> - just out of curiosity.
+    🟡 Lately exploring <strong>Automation Tools</strong> and <strong>Neuroscience</strong> - just out of curiosity.
   </p>
   <br/>
   <p><strong> 🙌 Have a great day!</strong></p>
