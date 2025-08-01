@@ -128,7 +128,7 @@
   </p>
   
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Ammad-Ashraf" alt="GitHub Streak" width="96%" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Ammad-Ashraf)](https://streak-stats.demolab.com?user=Ammad-Ashraf)
   </p>
   
   
