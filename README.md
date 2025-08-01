@@ -128,8 +128,11 @@
   </p>
   
   <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Ammad-Ashraf)](https://streak-stats.demolab.com?user=Ammad-Ashraf)
+    <a href="https://streak-stats.demolab.com?user=Ammad-Ashraf">
+      <img src="https://streak-stats.demolab.com?user=Ammad-Ashraf" alt="GitHub Streak" width="96%" />
+    </a>
   </p>
+
   
   
   <p align="center">
