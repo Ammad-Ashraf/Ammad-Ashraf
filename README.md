@@ -128,10 +128,11 @@
   </p>
 
   <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Ammad-Ashraf">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ammad-Ashraf" alt="GitHub Streak" width="96%" />
+    <a href="https://my-github-streak.vercel.app?user=Ammad-Ashraf&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+      <img src="https://my-github-streak.vercel.app?user=Ammad-Ashraf&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="96%" />
     </a>
   </p>
+
 
   
   <p align="center">
