@@ -45,7 +45,7 @@
   <p>
     🟡<strong> I'm</strong>, a final-year <strong>Software Engineering</strong> student at <strong>FAST NUCES Islamabad</strong>.<br/>
     🟡 Over the past year,I’ve been working mostly in <strong>full-stack development</strong> and <strong>DevOps</strong>.<br/>
-    🟡 I’ve interned as a <strong>full-stack</strong> and <strong>backend developer</strong> at two Islamabad-based startups: <strong>QuantaByte</strong> and <strong>WeRide</strong>.<br/>
+    🟡 I’ve interned as a <strong>full-stack</strong> and <strong>backend developer</strong> at two Islamabad-based companies: <strong>QuantaByte</strong>, a services company and <strong>WeRide</strong>, a growing startup.<br/>
     🟡 Currently Building a <strong>SaaS Tool</strong> for <strong>First-Time Founders</strong>:
   </p>
   <blockquote>
