@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=50&color=000000&center=false&vCenter=true&width=500&height=70&duration=6000&lines=Ammad+Ashraf" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=30&color=000000&center=false&vCenter=true&width=600&height=50&duration=6000&lines=Software+Engineer;Full+Stack+Web+Developer;API+Integration+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=30&color=000000&center=false&vCenter=true&width=600&height=50&duration=6000&lines=Software+Engineer;Full+Stack+Web+Developer;AI+Solutions+Engineer" />
 
 </div>
 <hr/>
