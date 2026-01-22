@@ -86,6 +86,8 @@
     <a href="https://www.mongodb.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mongodb.svg" width="40" /></a>
     <a href="https://www.mysql.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mysql.svg" width="40" /></a>
     <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mssql.svg" width="40" /></a>
+    < a href="https://supabase.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/supabase.svg" width="40" /></a>
+    < a href="https://www.postgresql.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/postgresql.svg" width="40" /></a>
     <a href="https://redis.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/redis.svg" width="40" /></a>
     <a href="https://jwt.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jwt.svg" width="40" /></a>
     <a href="https://oauth.net/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/oauth.svg" width="40" /></a>
@@ -107,12 +109,14 @@
       <a href="https://www.jenkins.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jenkins.svg" width="40" /></a>
       <a href="https://docs.github.com/en/actions"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/github-actions.svg" width="40" /></a>
       <a href="https://nginx.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/nginx.svg" width="40" /></a>
+      <a href="https://www.cloudflare.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/cloudflare.svg" width="40" /></a>
       <a href="https://www.npmjs.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/npm.svg" width="40" /></a>
       <a href="https://git-scm.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/git.svg" width="40" /></a>
       <a href="https://github.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/git-hub.svg" width="40" /></a>
       <a href="https://vitejs.dev/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vite.svg" width="40" /></a>
       <a href="https://vercel.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/vercel.svg" width="40" /></a>
       <a href="https://www.figma.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/figma.svg" width="40" /></a>
+      <a href="https://www.loveable.dev/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/loveable.svg" width="40" /></a>
   </p  
 </div>
 <hr/>
@@ -133,10 +137,6 @@
     </a>
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammad-Ashraf&theme=react-dark&hide_border=true&radius=12" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ammad-Ashraf&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
   </p>
 
 </div>
