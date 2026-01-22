@@ -86,8 +86,8 @@
     <a href="https://www.mongodb.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mongodb.svg" width="40" /></a>
     <a href="https://www.mysql.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mysql.svg" width="40" /></a>
     <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/mssql.svg" width="40" /></a>
-    < a href="https://supabase.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/supabase.svg" width="40" /></a>
-    < a href="https://www.postgresql.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/postgresql.svg" width="40" /></a>
+    <a href="https://supabase.com/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/supabase.svg" width="40" /></a>
+    <a href="https://www.postgresql.org/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/postgresql.svg" width="40" /></a>
     <a href="https://redis.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/redis.svg" width="40" /></a>
     <a href="https://jwt.io/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/jwt.svg" width="40" /></a>
     <a href="https://oauth.net/"><img src="https://github.com/ammad-ashraf/ammad-ashraf/blob/main/skills/oauth.svg" width="40" /></a>
